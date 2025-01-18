@@ -2,7 +2,6 @@
 #Date: DD/MM/YYYY
 #Description: Includes Git commands
 
-
 git init
 git add --all or . (dot) for the current path files
 git commit -m <any message>
